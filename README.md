@@ -4,6 +4,8 @@
 ### login_view.php
 #### เข้าสู่ระบบล้มเหลว
 ![login_fail](https://github.com/nobpanatSRRU/last_project/blob/main/images/login_fail.gif?raw=true)
+#### เข้าสู่ระบบสำเร็จ
+![login_success](https://github.com/nobpanatSRRU/last_project/blob/main/images/login_success.gif?raw=true)
 
 ### new_bus_info_view.php
 #### เพิ่มข้อมูลรถบัส
