@@ -20,3 +20,8 @@
 ### member_view.php
 #### ลบข้อมูลสมาชิก
 ![delete_member](https://github.com/nobpanatSRRU/last_project/blob/main/images/delete_member.gif?raw=true)
+
+
+## โดย นายนพนัฐ ตันยอด รหัสนักศึกษา 64222200111
+### สาขาเทคโนโลยีคอมพิวเตอร์ คณะเทคโนโลยีอุตสาหกรรม
+## มหาวิทยาลัยราชภัฏสุรินทร์
